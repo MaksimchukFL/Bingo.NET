@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Castillo_Franco_4.8\ParcialLabIIICastillo\bin\Debug\ParcialLabIIICastillo.exe.config
+C:\Users\franc\Desktop\Castillo_Franco_4.8\ParcialLabIIICastillo\bin\Debug\ParcialLabIIICastillo.exe
+C:\Users\franc\Desktop\Castillo_Franco_4.8\ParcialLabIIICastillo\bin\Debug\ParcialLabIIICastillo.pdb
+C:\Users\franc\Desktop\Castillo_Franco_4.8\ParcialLabIIICastillo\obj\Debug\Bingo.NET.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Castillo_Franco_4.8\ParcialLabIIICastillo\obj\Debug\Bingo.NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\Desktop\Castillo_Franco_4.8\ParcialLabIIICastillo\obj\Debug\BingoNET.Form1.resources
+C:\Users\franc\Desktop\Castillo_Franco_4.8\ParcialLabIIICastillo\obj\Debug\BingoNET.Form2.resources
+C:\Users\franc\Desktop\Castillo_Franco_4.8\ParcialLabIIICastillo\obj\Debug\ParcialLabIIICastillo.Properties.Resources.resources
+C:\Users\franc\Desktop\Castillo_Franco_4.8\ParcialLabIIICastillo\obj\Debug\Bingo.NET.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Castillo_Franco_4.8\ParcialLabIIICastillo\obj\Debug\Bingo.NET.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Castillo_Franco_4.8\ParcialLabIIICastillo\obj\Debug\ParcialLabIIICastillo.exe
+C:\Users\franc\Desktop\Castillo_Franco_4.8\ParcialLabIIICastillo\obj\Debug\ParcialLabIIICastillo.pdb
